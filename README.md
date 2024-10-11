@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tanvir284
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in programming, Machine learning , Data Science and Web Development
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me ruhittanvir14@gmail.com
 
