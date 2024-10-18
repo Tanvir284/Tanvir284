@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tanvir284
-- 👀 I’m interested in programming, Machine learning , Data Science and Web Development
-- 💞️ I’m looking to collaborate on my project
+- 👀 I'm interested in programming, Machine learning , Data Science and Web Development
+- 💻 I'm a competitive programmer
+- 💞️ I'm looking to collaborate on my project
 - 📫 How to reach me ruhittanvir14@gmail.com
 
 <!---
