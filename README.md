@@ -9,7 +9,7 @@ I'm a passionate software developer and machine learning enthusiast who loves bu
 
 ## Skills
 - Languages: **Python**, **C/C++**,**C#**, **JavaScript**,**Java**,**HTML**,**CSS**
-- Frameworks: **TensorFlow**, **PyTorch**, **Django**,**Flask**,**React**,**Express.js**,**Node.js**,**Talwind-CSS**,**Flutter**
+- Frameworks: **TensorFlow**, **PyTorch**, **Django**,**Flask**,**.NET**,**React**,**Express.js**,**Node.js**,**Talwind-CSS**,**Flutter**
 - Tools: **Git**, **Docker**, **Linux**,**AWS**,**Kubernetes**
 
 
