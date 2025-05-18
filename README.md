@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Tanvir284
-- 👀 I'm interested in programming, Machine learning , Data Science and Web Development
-- 💻 I'm a competitive programmer
-- 💞️ I'm looking to collaborate on my project
-- 📫 How to reach me ruhittanvir14@gmail.com
+# Hi there, I'm Tanvir Islam! 👋
 
-<!---
-Tanvir284/Tanvir284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer and machine learning enthusiast who loves building data-driven solutions. I enjoy tackling challenging problems and contributing to open-source projects.
+
+## 💡 About Me
+- 🎯 Interested in programming, machine learning, data science and modern web development
+- 💻 Competitive programmer always looking for new challenges
+- 🌱 Currently exploring full‑stack web frameworks and Ai,Machine Learning and Deep Learning
+
+## Skills
+- Languages: **Python**, **C/C++**, **JavaScript**,**Java**,**HTML**,**CSS**
+- Frameworks: **TensorFlow**, **PyTorch**, **Django**,**Flask**,**React**,**Express.js**,**Node.js**,**Talwind-CSS**,**Flutter**
+- Tools: **Git**, **Docker**, **Linux**,**AWS**,**Kubernetes**
+
+
+
+## 📫 Contact Me
+- Email: [ruhittanvir14@gmail.com](mailto:ruhittanvir14@gmail.com)
+- LinkedIn: [linkedin.com/in/MD Tanvir Islam](https://www.linkedin.com/in/md-tanvir-islam-120699206)
