@@ -18,25 +18,42 @@
 
 ---
 
-## 🧑‍💻 About Me
+<!-- Gorgeous gradient banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ad0b6,100:ff9f43&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
+</p>
 
-```yaml
-name: Tanvir Islam
-role: Software Developer | Machine Learning Enthusiast
-location: Dhaka, Bangladesh
-goals:
-  - Build impactful data-driven solutions
-  - Contribute to open-source projects
-  - Master AI, ML, and modern web frameworks
-  - Collaborate with global tech communities
-```
+<!-- Avatar and name -->
+<p align="center">
+  <img src="https://github.com/Tanvir284.png" width="110" style="border-radius:50%" alt="Tanvir's avatar"/>
+  <br>
+  <b><span style="font-size:1.4em;">Tanvir Islam</span></b>
+  <br>
+  <span>Software Developer&nbsp;|&nbsp;Machine Learning Enthusiast</span>
+  <br>
+  <span>Dhaka, Bangladesh</span>
+</p>
 
-- 🚀 **Driven by curiosity and a love for complex challenges.**
-- 🛠️ **Always on the lookout for innovative projects and new learning opportunities.**
-- 🤗 **Let’s connect and create something amazing together!**
+<!-- Card with highlights -->
+<div align="center" style="background: linear-gradient(90deg, #1ad0b6 0%, #ff9f43 100%); border-radius: 15px; padding: 25px 30px; margin: 20px 0; box-shadow: 0 4px 16px rgba(26,208,182,0.10), 0 1.5px 5px rgba(255,159,67,0.06); color: #fff;">
+  <ul align="left" style="list-style:none; font-size: 1.1em;">
+    <li>🚀 <b>Driven by curiosity</b> & a passion for tackling complex challenges</li>
+    <li>🌱 <b>Always learning</b> — from AI & web dev to open-source</li>
+    <li>🌏 <b>Building connections</b> with global tech communities</li>
+    <li>💡 <b>Open to collaboration</b> on impactful, data-driven solutions</li>
+  </ul>
+</div>
 
----
+<!-- Goals as icons -->
+<p align="center" style="font-size:1.15em;">
+  <img src="https://img.shields.io/badge/-Build%20impactful%20solutions-1ad0b6?style=for-the-badge&logo=data:image/svg+xml;base64,..." height="28"/>
+  <img src="https://img.shields.io/badge/-Contribute%20to%20Open%20Source-ff9f43?style=for-the-badge&logo=github" height="28"/>
+  <img src="https://img.shields.io/badge/-Master%20AI%20%26%20Web%20Frameworks-1ad0b6?style=for-the-badge&logo=python" height="28"/>
+</p>
 
+<p align="center">
+  <em>✨ Let’s connect and create something amazing together! ✨</em>
+</p>
 ## 🏆 My GitHub Achievements
 
 <p align="center">
