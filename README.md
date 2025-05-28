@@ -95,23 +95,45 @@
 
 ---
 
-## 🧩 Skill Visualization
+## 🧠 Skills Visualization
 
-<!-- Radar chart using shields.io (or other SVG chart providers) -->
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/285676427858436096?theme=light&animated=true&hideDiscrim=true&borderRadius=20px" alt="Skill Radar" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch&theme=light" alt="Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes&theme=light" alt="DevOps & Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 **Email:** [ruhittanvir14@gmail.com](mailto:ruhittanvir14@gmail.com)
-- 💼 **LinkedIn:** [MD Tanvir Islam](https://www.linkedin.com/in/md-tanvir-islam-120699206)
-- 🐦 **Twitter:** [@yourtwitter](https://twitter.com/yourtwitter)
-- 💡 *Let’s collaborate on your next big idea!*
+<div align="center">
+  <a href="mailto:ruhittanvir14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Tanvir284/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Tanvir284" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
----
+<p align="center">
+  <b>Let’s connect and create something amazing together! 🚀</b>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
