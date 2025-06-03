@@ -92,13 +92,6 @@
     <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
-  </a>
-</p>
 ## ⚡ My Tech Stack
 
 <details>
