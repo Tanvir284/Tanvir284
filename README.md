@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/Tanvir284?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  
 </p>
 
 <!-- Social & Contact -->
@@ -20,7 +19,6 @@
   <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-Tanvir284-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-
 </p>
 
 ---
@@ -73,11 +71,34 @@
 
 ---
 
+## 🏅 Competitive Programming Stats
+
+### 🟧 LeetCode Profile & Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/Tanvir_Islam84/">
+    <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+### 🟦 Codeforces Profile & Activity
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=light" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=ruhittanvir14&theme=light" alt="Codeforces Activity Graph" />
+</p>
+
+---
+
 ## ⚡ My Tech Stack
 
 <details>
   <summary><b>💻 Click to expand Tech Stack</b></summary>
-
   <div align="center">
     <!-- Languages -->
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
