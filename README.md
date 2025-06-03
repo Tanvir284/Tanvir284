@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
   </a>
 </p>
-## ⚡ My Tech Stack
+ ⚡ My Tech Stack
 
 <details>
   <summary><b>💻 Click to expand Tech Stack</b></summary>
@@ -171,9 +171,7 @@
   <a href="https://github.com/Tanvir284" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </div>
 
 <p align="center">
