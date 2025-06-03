@@ -18,7 +18,7 @@
 <p align="center">
   <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-Tanvir284-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Tanvir_Islam84/"><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ---
 
-## 🏅 Competitive Programming Stats
+## 🏅My Competitive Programming Stats
 
 ### 🟧 LeetCode Profile & Activity
 
@@ -83,17 +83,24 @@
 
 ### 🟦 Codeforces Profile & Activity
 
+### 🟦 Codeforces Profile & Activity
+
 <p align="center">
   <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=light" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=ruhittanvir14&theme=light" alt="Codeforces Activity Graph" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=ruhittanvir14&theme=dark" alt="Codeforces Activity Graph" />
 </p>
 
----
+<!-- If the above don't work, use this simpler badge as a fallback: -->
+<p align="center">
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://codeforces-badge.vercel.app/api/user?handle=ruhittanvir14" alt="Codeforces Badge"/>
+  </a>
+</p>
 
 ## ⚡ My Tech Stack
 
@@ -156,22 +163,8 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmt6ntxqg7mcwqf7q4f3d5y6y4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Now Playing on Spotify"/>
-</p>
-<sub align="center">*Shows either your current song or your top track of the week!*</sub>
 
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this with GitHub Action if you have a blog RSS feed -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📬 Get in Touch
 
