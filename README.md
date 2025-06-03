@@ -4,7 +4,9 @@
 </p>
 
 <!-- Profile Banner -->
-
+<p align="center">
+  <img src="https://github.com/Tanvir284/Tanvir284/blob/main/assets/banner.gif" alt="Banner" width="80%" />
+</p>
 
 <!-- Visitor Counter & Badges -->
 <p align="center">
