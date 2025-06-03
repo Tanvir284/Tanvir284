@@ -165,7 +165,7 @@
   <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/Tanvir284/" target="_blank">
+  <a href="https://leetcode.com/u/Tanvir_Islam84/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://github.com/Tanvir284" target="_blank">
