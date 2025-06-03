@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/Tanvir284?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/twitter/follow/yourtwitter?style=for-the-badge" alt="Twitter Follow"/>
+  
 </p>
 
 <!-- Social & Contact -->
@@ -20,7 +20,7 @@
   <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-Tanvir284-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-%40yourtwitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 </p>
 
 ---
