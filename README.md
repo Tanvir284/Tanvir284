@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=0000FF&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
 </p>
 
 <!-- Profile Banner -->
@@ -82,9 +82,6 @@
 </p>
 
 ### 🟦 Codeforces Profile & Activity
-
-### 🟦 Codeforces Profile & Activity
-
 <p align="center">
   <a href="https://codeforces.com/profile/ruhittanvir14">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" alt="Codeforces Stats" />
