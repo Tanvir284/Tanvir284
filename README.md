@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Always+Learning+New+Things!">
 </p>
 
 <!-- Profile Banner -->
@@ -25,7 +25,7 @@
 
 <!-- Gorgeous gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ad0b6,100:ff9f43&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
 </p>
 
 <!-- Avatar and name -->
