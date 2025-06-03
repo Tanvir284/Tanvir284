@@ -98,6 +98,17 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
+  </a>
+</p>
+
+<!-- 
+If you want to show your current rating dynamically, you can use the Codeforces API with a GitHub Action or a static badge like this (replace RATING with your actual rating):
+<img src="https://img.shields.io/badge/Rating-<RATING>-blue?style=for-the-badge"/>
+-->
 ## ⚡ My Tech Stack
 
 <details>
