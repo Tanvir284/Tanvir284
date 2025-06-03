@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=F7A41D&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=0000FF&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
 </p>
 
 <!-- Profile Banner -->
