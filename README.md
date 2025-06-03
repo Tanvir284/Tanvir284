@@ -27,9 +27,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
 </p>
-<!-- Avatar and name -->
+
 <p align="center">
-  <img src="https://github.com/Tanvir284.png" width="110" style="border-radius:50%" alt="Tanvir's avatar"/>
+ 
   <br>
   <b><span style="font-size:1.4em;">Tanvir Islam</span></b>
   <br>
