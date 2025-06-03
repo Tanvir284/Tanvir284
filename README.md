@@ -91,12 +91,6 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=ruhittanvir14&theme=dark" alt="Codeforces Activity Graph" />
 </p>
 
-<!-- If the above don't work, use this simpler badge as a fallback: -->
-<p align="center">
-  <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://codeforces-badge.vercel.app/api/user?handle=ruhittanvir14" alt="Codeforces Badge"/>
-  </a>
-</p>
 
 
 <p align="center">
@@ -104,11 +98,6 @@
     <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
   </a>
 </p>
-
-<!-- 
-If you want to show your current rating dynamically, you can use the Codeforces API with a GitHub Action or a static badge like this (replace RATING with your actual rating):
-<img src="https://img.shields.io/badge/Rating-<RATING>-blue?style=for-the-badge"/>
--->
 ## ⚡ My Tech Stack
 
 <details>
