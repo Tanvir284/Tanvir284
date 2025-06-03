@@ -1,112 +1,185 @@
-<!-- ======================== HEADER ======================== -->
+<!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=32&duration=2500&pause=1000&color=FFB347&center=true&vCenter=true&width=700&height=50&lines=Hi+👋%2C+I'm+Tanvir+Islam!;Full-Stack+Developer+%E2%9C%A8;ML+Enthusiast+%F0%9F%A4%96;Open+Source+Advocate+%F0%9F%94%A5;Welcome+to+my+colorful+space!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=F7A41D&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Open+Source+Lover;Always+Learning+New+Things!">
 </p>
 
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Welcome!&fontSize=48&fontColor=fff&animation=twinkling" alt="banner"/>
+  <img src="https://github.com/Tanvir284/Tanvir284/blob/main/assets/banner.gif" alt="Banner" width="80%" />
 </p>
 
-<!-- ======================== PROFILE CARD ======================== -->
+<!-- Visitor Counter & Badges -->
 <p align="center">
-  <img src="https://github.com/Tanvir284.png" width="120" style="border-radius: 50%; border: 3px solid #43e97b; margin-bottom: 8px;" alt="Tanvir's avatar"/>
-</p>
-<h2 align="center"><b>Tanvir Islam</b></h2>
-<p align="center">
-  <b>🌍 Dhaka, Bangladesh</b><br>
-  <i>Passionate about innovation, AI, and beautiful code.</i>
+  <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/Tanvir284?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/twitter/follow/yourtwitter?style=for-the-badge" alt="Twitter Follow"/>
 </p>
 
-<!-- ======================== SOCIAL LINKS ======================== -->
+<!-- Social & Contact -->
 <p align="center">
-  <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-FF6A00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-43E97B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-F7971E?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-38F9D7?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge&color=F44369&label=Profile+Views"/>
+  <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-Tanvir284-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-%40yourtwitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- ======================== ABOUT ME ======================== -->
+<!-- Gorgeous gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f7971e,100:43e97b&height=80&section=header&text=About%20Me&fontSize=32&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ad0b6,100:ff9f43&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
 </p>
 
-<details open>
-  <summary>🌟 <b>Click to expand my journey!</b></summary>
-  
-  - 🧑‍💻 **Full-Stack Developer:** Python, JavaScript, TypeScript, C++, C#, Java
-  - ⚡ **Tech Explorer:** Django, React, Node.js, Express, Flutter, .NET, TensorFlow, PyTorch
-  - 🤖 **Machine Learning Enthusiast:** Always building and learning new things in AI
-  - 🌏 **Open Source Contributor:** I love collaborating and building together
-  - 📚 **Continuous Learner:** I thrive on new challenges and creative projects
-  - ✨ **Fun Fact:** I enjoy designing beautiful, functional UIs as much as back-end logic!
+<!-- Avatar and name -->
+<p align="center">
+  <img src="https://github.com/Tanvir284.png" width="110" style="border-radius:50%" alt="Tanvir's avatar"/>
+  <br>
+  <b><span style="font-size:1.4em;">Tanvir Islam</span></b>
+  <br>
+  <span>Software Developer&nbsp;|&nbsp;Machine Learning Enthusiast</span>
+  <br>
+  <span>Dhaka, Bangladesh</span>
+</p>
+
+<!-- Collapsible Highlights -->
+<details>
+  <summary><b>✨ Highlights & Goals</b></summary>
+  <div align="center" style="background: linear-gradient(90deg, #1ad0b6 0%, #ff9f43 100%); border-radius: 15px; padding: 25px 30px; margin: 20px 0; box-shadow: 0 4px 16px rgba(26,208,182,0.10), 0 1.5px 3px rgba(255,159,67,0.10);">
+    <ul align="left" style="list-style:none; font-size: 1.1em;">
+      <li>🚀 <b>Driven by curiosity</b> & a passion for tackling complex challenges</li>
+      <li>🌱 <b>Always learning</b> — from AI & web dev to open-source</li>
+      <li>🌏 <b>Building connections</b> with global tech communities</li>
+      <li>💡 <b>Open to collaboration</b> on impactful, data-driven solutions</li>
+    </ul>
+    <p align="center">
+      <img src="https://img.shields.io/badge/-Build%20impactful%20solutions-1ad0b6?style=for-the-badge" height="28"/>
+      <img src="https://img.shields.io/badge/-Contribute%20to%20Open%20Source-ff9f43?style=for-the-badge" height="28"/>
+      <img src="https://img.shields.io/badge/-Master%20AI%20%26%20Web%20Frameworks-1ad0b6?style=for-the-badge" height="28"/>
+    </p>
+  </div>
+</details>
+
+<p align="center">
+  <em>✨ Let’s connect and create something amazing together! ✨</em>
+</p>
+
+---
+
+## 🏆 My GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+## ⚡ My Tech Stack
+
+<details>
+  <summary><b>💻 Click to expand Tech Stack</b></summary>
+
+  <div align="center">
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
+    <br>
+    <!-- Frameworks and Platforms -->
+    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch" height="40" alt="Frameworks"/>
+    <br>
+    <!-- Styling -->
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
+    <br>
+    <!-- DevOps & Cloud -->
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes" height="40" alt="DevOps Cloud"/>
+  </div>
 </details>
 
 ---
 
-<!-- ======================== SKILLS & TOOLS ======================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38F9D7,100:F44369&height=80&section=header&text=Skills%20%26%20Tools&fontSize=32&fontColor=fff"/>
-</p>
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,java,html,css,react,nextjs,vue,django,flask,express,nodejs,flutter,dotnet,tensorflow,pytorch,git,docker,linux,aws,kubernetes&perline=9&theme=light" height="45"/>
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="32"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir284&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<!-- ======================== GITHUB HIGHLIGHTS ======================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6a00,100:43e97b&height=80&section=header&text=GitHub%20Highlights&fontSize=32&fontColor=fff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,ff6a00,f7971e,43e97b,38f9d7&title_color=fff&icon_color=fff" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,43e97b,38f9d7&title_color=fff&icon_color=fff" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanvir284&theme=tokyonight&hide_border=true&background=FFFFFF00" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-<!-- ======================== MUSIC / FUN WIDGETS ======================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:43e97b,100:f7971e&height=80&section=header&text=Now%20Playing&fontSize=32&fontColor=fff"/>
-</p>
+## 🧠 Skills Visualization
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmt6ntxqg7mcwqf7q4f3d5y6y4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" height="90"/>
-</p>
-<p align="center"><sub>*Live: now playing or top track*</sub></p>
-
----
-
-<!-- ======================== CONTACT / CONNECT ======================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38F9D7,100:F44369&height=70&section=footer&text=Let%E2%80%99s%20Connect!&fontSize=28&fontColor=fff"/>
-</p>
-<p align="center">
-  <a href="mailto:ruhittanvir14@gmail.com"><img src="https://img.shields.io/badge/Email-FF6A00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/md-tanvir-islam-120699206"><img src="https://img.shields.io/badge/LinkedIn-43E97B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Tanvir284/"><img src="https://img.shields.io/badge/LeetCode-F7971E?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-38F9D7?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+<details>
+  <summary><b>🔎 Click to see Visualized Skills</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch&theme=light" alt="Frameworks" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes&theme=light" alt="DevOps & Cloud" />
+  </p>
+</details>
 
 ---
 
-<!-- ======================== RANDOM DEV QUOTE ======================== -->
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmt6ntxqg7mcwqf7q4f3d5y6y4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Now Playing on Spotify"/>
+</p>
+<sub align="center">*Shows either your current song or your top track of the week!*</sub>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this with GitHub Action if you have a blog RSS feed -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+  <a href="mailto:ruhittanvir14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Tanvir284/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Tanvir284" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+<p align="center">
+  <b>Let’s connect and create something amazing together! 🚀</b>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
