@@ -25,7 +25,7 @@
 
 <!-- Gorgeous gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=140&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
 </p>
 
 <!-- Avatar and name -->
