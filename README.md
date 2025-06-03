@@ -88,9 +88,10 @@
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=ruhittanvir14&theme=dark" alt="Codeforces Activity Graph" />
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
+  </a>
 </p>
-
 
 
 <p align="center">
