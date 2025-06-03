@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Full-Stack+Developer+%7C+ML+Enthusiast;Always+Learning+New+Things!">
 </p>
 
 <!-- Profile Banner -->
@@ -31,7 +31,7 @@
 <p align="center">
  
   <br>
-  <b><span style="font-size:1.4em;">Tanvir Islam</span></b>
+  <b><span style="font-size:1.4em;">Md Tanvir Islam</span></b>
   <br>
   <span>Software Developer&nbsp;|&nbsp;Machine Learning Enthusiast</span>
   <br>
