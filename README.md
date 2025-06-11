@@ -32,7 +32,7 @@
   <br>
   <b><span style="font-size:1.4em;">Md Tanvir Islam</span></b>
   <br>
-  <span>Software Developer&nbsp;|&nbsp;Machine Learning Enthusiast</span>
+  <span>Software Developer&nbsp;|&nbsp;Machine Learning Engineer</span>
   <br>
   <span>Dhaka, Bangladesh</span>
 </p>
