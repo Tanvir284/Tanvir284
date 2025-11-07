@@ -59,7 +59,7 @@
 </p>
 
 ---
-### 🧾 About Me (Detailed YAML)
+### 🧾 About Me 
 ```yaml
 name: Md Tanvir Islam
 role: Software Developer | Machine Learning Engineer
