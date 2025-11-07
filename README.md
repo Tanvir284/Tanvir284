@@ -161,9 +161,6 @@
 
 ---
 
-## ➕ (Added sections inspired by other README examples)
-
-Below are additional sections included (templates & examples) that were present in other READMEs — add your own content where indicated.
 
 ### 🧾 About Me (Detailed YAML)
 ```yaml
@@ -211,47 +208,7 @@ Competitive Programming  ███████████░░░░░░   6
 
 ---
 
-### 🌟 Featured Projects (add your repos here)
-Use this pattern to showcase important repos — replace links and descriptions with your projects.
 
-<table>
-<tr>
-<td width="50%">
-
-### 💡 [Project-One](https://github.com/your-username/your-repo)
-<a href="https://github.com/your-username/your-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
-</a>
-
-**One-line summary.**
-
-**✨ Key Features:**
-- Feature A
-- Feature B
-
-**🛠️ Tech Stack:** `tech1` `tech2` `tech3`
-
-</td>
-<td width="50%">
-
-### 🔧 [Project-Two](https://github.com/your-username/your-repo-2)
-<a href="https://github.com/your-username/your-repo-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-2&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
-</a>
-
-**Short description.**
-
-**🛠️ Tech Stack:** `techA` `techB`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvir284?tab=repositories)
-</p>
-
----
 
 ### 💼 Professional Experience (template)
 <table>
