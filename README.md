@@ -59,109 +59,6 @@
 </p>
 
 ---
-
-## 🏆 My GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-## 🎯 Competitive Programming Stats
-
-### 🟧 LeetCode Profile & Activity
-<p align="center">
-  <a href="https://leetcode.com/u/Tanvir_Islam84/">
-    <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
-### 🟦 Codeforces Profile & Activity
-<p align="center">
-  <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<details>
-  <summary><b>🖥️ Click to expand Tech Stack</b></summary>
-  <div align="center">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
-    <br>
-    <!-- Frameworks and Platforms -->
-    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch" height="40" alt="Frameworks"/>
-    <br>
-    <!-- Styling -->
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
-    <br>
-    <!-- DevOps & Cloud -->
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes" height="40" alt="DevOps Cloud"/>
-  </div>
-</details>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir284&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🧭 Skills Visualization
-
-<details>
-  <summary><b>🔍 Click to see Visualized Skills</b></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch&theme=light" alt="Frameworks" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes&theme=light" alt="DevOps & Cloud" />
-  </p>
-</details>
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
----
-
-
 ### 🧾 About Me (Detailed YAML)
 ```yaml
 name: Md Tanvir Islam
@@ -260,40 +157,107 @@ Competitive Programming  ███████████░░░░░░   6
 </div>
 
 ---
+## 🏆 My GitHub Achievements
 
-### 🤩 Fun Facts (add your fun/witty lines)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+## 🎯 Competitive Programming Stats
+
+### 🟧 LeetCode Profile & Activity
+<p align="center">
+  <a href="https://leetcode.com/u/Tanvir_Islam84/">
+    <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+### 🟦 Codeforces Profile & Activity
+<p align="center">
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ruhittanvir14">
+    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
 <details>
-<summary><b>Click to expand!</b></summary>
-
-- 🌱 Currently exploring advanced ML techniques
-- 🎯 2025 Goal: Contribute to several open-source projects
-- ⚡ Fun fact: Can work on algo problems and listen to music at the same time
-- ☕ Fuel: Coffee + Music = Productivity
-
+  <summary><b>🖥️ Click to expand Tech Stack</b></summary>
+  <div align="center">
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
+    <br>
+    <!-- Frameworks and Platforms -->
+    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch" height="40" alt="Frameworks"/>
+    <br>
+    <!-- Styling -->
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
+    <br>
+    <!-- DevOps & Cloud -->
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes" height="40" alt="DevOps Cloud"/>
+  </div>
 </details>
 
 ---
 
-### 📝 Latest Blog Posts (if you write blogs)
-<!-- BLOG-POST-LIST:START -->
-Coming soon! Add links to your blog posts here.
-<!-- BLOG-POST-LIST:END -->
+## 📊 GitHub Stats & Activity
 
----
-
-### 🐍 Contribution Snake (optional)
 <div align="center">
-  <!-- Add snake contribution if you generate one -->
-  ![Snake animation](https://github.com/Tanvir284/Tanvir284/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir284&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🧭 Skills Visualization
+
+<details>
+  <summary><b>🔍 Click to see Visualized Skills</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch&theme=light" alt="Frameworks" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes&theme=light" alt="DevOps & Cloud" />
+  </p>
+</details>
+
+
+
+
+
+
+
+
 <div align="center">
 
 ### 💖 Thank You for Visiting!
-
-![Visitor Count](https://profile-counter.glitch.me/Tanvir284/count.svg)
 
 **⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
 
