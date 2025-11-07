@@ -1,5 +1,6 @@
+<!-- Top animated typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+Learning+New+Things!;Aim+to+build+New+Solutions;for+new+problems;I+have+strong+vision+to+create;A+better+World!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+Learning,+Always+Building" />
 </p>
 
 <!-- Profile Banner -->
@@ -15,20 +16,19 @@
 
 <!-- Social & Contact -->
 <p align="center">
-  <a href="ruhittanvir14@gmail.com" target=blank><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target=blank><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Tanvir_Islam84/" target=blank><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:ruhittanvir14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Tanvir_Islam84/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
 
-<!-- Gorgeous gradient banner -->
+<!-- About / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner" />
 </p>
 
 <p align="center">
- 
   <br>
   <b><span style="font-size:1.4em;">Md Tanvir Islam</span></b>
   <br>
@@ -37,14 +37,13 @@
   <span>Dhaka, Bangladesh</span>
 </p>
 
-<!-- Collapsible Highlights -->
 <details>
   <summary><b>✨ Highlights & Goals</b></summary>
-  <div align="center" style="background: linear-gradient(90deg, #1ad0b6 0%, #ff9f43 100%); border-radius: 15px; padding: 25px 30px; margin: 20px 0; box-shadow: 0 4px 16px rgba(26,208,182,0.10), 0 1.5px 3px rgba(255,159,67,0.10);">
+  <div align="center" style="background: linear-gradient(90deg, #1ad0b6 0%, #ff9f43 100%); border-radius: 15px; padding: 25px 30px; margin: 20px 0;">
     <ul align="left" style="list-style:none; font-size: 1.1em;">
       <li>🚀 <b>Driven by curiosity</b> & a passion for tackling complex challenges</li>
       <li>🌱 <b>Always learning</b> — from AI & web dev to open-source</li>
-      <li>🌏 <b>Building connections</b> with global tech communities</li>
+      <li>🌍 <b>Building connections</b> with global tech communities</li>
       <li>💡 <b>Open to collaboration</b> on impactful, data-driven solutions</li>
     </ul>
     <p align="center">
@@ -69,10 +68,9 @@
 
 ---
 
-## 🏅My Competitive Programming Stats
+## 🎯 Competitive Programming Stats
 
 ### 🟧 LeetCode Profile & Activity
-
 <p align="center">
   <a href="https://leetcode.com/u/Tanvir_Islam84/">
     <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
@@ -91,10 +89,13 @@
     <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
   </a>
 </p>
- ⚡ My Tech Stack
+
+---
+
+## 💻 Tech Stack
 
 <details>
-  <summary><b>💻 Click to expand Tech Stack</b></summary>
+  <summary><b>🖥️ Click to expand Tech Stack</b></summary>
   <div align="center">
     <!-- Languages -->
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
@@ -137,10 +138,10 @@
 
 ---
 
-## 🧠 Skills Visualization
+## 🧭 Skills Visualization
 
 <details>
-  <summary><b>🔎 Click to see Visualized Skills</b></summary>
+  <summary><b>🔍 Click to see Visualized Skills</b></summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
     <br>
@@ -152,13 +153,194 @@
 
 ---
 
-
-
-
-
-
 ## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
+
+---
+
+## ➕ (Added sections inspired by other README examples)
+
+Below are additional sections included (templates & examples) that were present in other READMEs — add your own content where indicated.
+
+### 🧾 About Me (Detailed YAML)
+```yaml
+name: Md Tanvir Islam
+role: Software Developer | Machine Learning Engineer
+location: Dhaka, Bangladesh
+education: B.Sc. in Computer Science & Engineering
+current_focus:
+  - Machine Learning & AI
+  - Web & Backend Development
+  - Competitive Programming
+  - Open Source Contributions
+interests:
+  - AI/ML
+  - Web Development
+  - Competitive Programming
+motto: "Always learning, always building."
+```
+
+### 🛠️ Technology Arsenal (expanded)
+<details>
+  <summary><b>💼 Core Technologies (expand)</b></summary>
+
+  - Mobile / Apps: Android (Java/Kotlin), Flutter (if used)
+  - Web: HTML, CSS, JavaScript, React, Node.js, Express
+  - Backend & DB: Firebase, MySQL, SQLite
+  - Languages: Python, C++, Java, JavaScript/TypeScript
+  - Tools: Git, Docker, VS Code, CI/CD basics
+  - ML: TensorFlow, PyTorch (if applicable)
+
+  Use the icons below where you want to showcase specific skills:
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
+  </p>
+</details>
+
+### 📊 Skill Proficiency (template)
+```text
+Machine Learning         ████████████░░░░░   70%
+Web Development          ██████████████░░░   80%
+Python                  █████████████░░░░   75%
+Competitive Programming  ███████████░░░░░░   60%
+```
+
+---
+
+### 🌟 Featured Projects (add your repos here)
+Use this pattern to showcase important repos — replace links and descriptions with your projects.
+
+<table>
+<tr>
+<td width="50%">
+
+### 💡 [Project-One](https://github.com/your-username/your-repo)
+<a href="https://github.com/your-username/your-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+</a>
+
+**One-line summary.**
+
+**✨ Key Features:**
+- Feature A
+- Feature B
+
+**🛠️ Tech Stack:** `tech1` `tech2` `tech3`
+
+</td>
+<td width="50%">
+
+### 🔧 [Project-Two](https://github.com/your-username/your-repo-2)
+<a href="https://github.com/your-username/your-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-2&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+</a>
+
+**Short description.**
+
+**🛠️ Tech Stack:** `techA` `techB`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvir284?tab=repositories)
+</p>
+
+---
+
+### 💼 Professional Experience (template)
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Company / Role Here
+**Role Title**
+- Responsibility / Achievement 1
+- Responsibility / Achievement 2
+
+</td>
+<td width="50%">
+
+### 🔹 Freelance / Part-time
+**Role Title**
+- Short description of work / clients
+- Tools & tech used
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Education & Certifications (add yours)
+<div align="center">
+
+| 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
+|:---:|:---:|:---:|:---:|
+| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2021 - Present | 🔥 Final Year |
+
+</div>
+
+---
+
+### 🗂️ Repository Summary (auto/placeholder)
+<div align="center">
+<!-- REPO_SUMMARY:START -->
+📊 **Quick Stats:** 
+- 🎯 Total Public Repositories: <!-- add your count -->
+- ⭐ Total Stars Earned: <!-- add your stars -->
+- 🔱 Total Forks: <!-- add forks -->
+- 📝 Total Commits (2025): <!-- add commits count -->
+
+**Top Languages Across All Repos:**
+`Python` • `Java` • `JavaScript`
+<!-- REPO_SUMMARY:END -->
+</div>
+
+---
+
+### 🤩 Fun Facts (add your fun/witty lines)
+<details>
+<summary><b>Click to expand!</b></summary>
+
+- 🌱 Currently exploring advanced ML techniques
+- 🎯 2025 Goal: Contribute to several open-source projects
+- ⚡ Fun fact: Can work on algo problems and listen to music at the same time
+- ☕ Fuel: Coffee + Music = Productivity
+
+</details>
+
+---
+
+### 📝 Latest Blog Posts (if you write blogs)
+<!-- BLOG-POST-LIST:START -->
+Coming soon! Add links to your blog posts here.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🐍 Contribution Snake (optional)
+<div align="center">
+  <!-- Add snake contribution if you generate one -->
+  ![Snake animation](https://github.com/Tanvir284/Tanvir284/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thank You for Visiting!
+
+![Visitor Count](https://profile-counter.glitch.me/Tanvir284/count.svg)
+
+**⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20,24,30&section=footer" />
+</div>
