@@ -88,8 +88,6 @@ motto: "Always learning, always building."
   - Tools: Git, Docker, VS Code, CI/CD basics
   - ML: TensorFlow, PyTorch (if applicable)
 
-  Use the icons below where you want to showcase specific skills:
-
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
   </p>
