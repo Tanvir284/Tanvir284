@@ -95,68 +95,19 @@ motto: "Always learning, always building."
   </p>
 </details>
 
-### 📊 Skill Proficiency (template)
-```text
-Machine Learning         ████████████░░░░░   70%
-Web Development          ██████████████░░░   80%
-Python                  █████████████░░░░   75%
-Competitive Programming  ███████████░░░░░░   60%
-```
-
----
 
 
 
-### 💼 Professional Experience (template)
-<table>
-<tr>
-<td width="50%">
 
-### 🔹 Company / Role Here
-**Role Title**
-- Responsibility / Achievement 1
-- Responsibility / Achievement 2
 
-</td>
-<td width="50%">
-
-### 🔹 Freelance / Part-time
-**Role Title**
-- Short description of work / clients
-- Tools & tech used
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎓 Education & Certifications (add yours)
+### 🎓 Education & Certifications 
 <div align="center">
 
 | 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
 |:---:|:---:|:---:|:---:|
-| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2021 - Present | 🔥 Final Year |
+| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 - Present | 🔥 Final Year |
 
 </div>
-
----
-
-### 🗂️ Repository Summary (auto/placeholder)
-<div align="center">
-<!-- REPO_SUMMARY:START -->
-📊 **Quick Stats:** 
-- 🎯 Total Public Repositories: <!-- add your count -->
-- ⭐ Total Stars Earned: <!-- add your stars -->
-- 🔱 Total Forks: <!-- add forks -->
-- 📝 Total Commits (2025): <!-- add commits count -->
-
-**Top Languages Across All Repos:**
-`Python` • `Java` • `JavaScript`
-<!-- REPO_SUMMARY:END -->
-</div>
-
----
 ## 🏆 My GitHub Achievements
 
 <p align="center">
