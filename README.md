@@ -184,18 +184,7 @@ motto: "Always learning, always building."
 
 ---
 
-## 🧭 Skills Visualization
 
-<details>
-  <summary><b>🔍 Click to see Visualized Skills</b></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css&theme=light" alt="Languages" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch&theme=light" alt="Frameworks" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes&theme=light" alt="DevOps & Cloud" />
-  </p>
-</details>
 
 
 
