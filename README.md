@@ -81,33 +81,25 @@ motto: "Always learning, always building."
 <details>
   <summary><b>💼 Core Technologies (expand)</b></summary>
 
-  - Mobile / Apps: Android (Java/Kotlin), Flutter (if used)
+  - Mobile : Android Java, Flutter 
   - Web: HTML, CSS, JavaScript, React, Node.js, Express
   - Backend & DB: Firebase, MySQL, SQLite
   - Languages: Python, C++, Java, JavaScript/TypeScript
   - Tools: Git, Docker, VS Code, CI/CD basics
-  - ML: TensorFlow, PyTorch (if applicable)
+  - ML: TensorFlow, PyTorch 
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
   </p>
 </details>
-
-
-
-
-
-
 ### 🎓 Education & Certifications 
 <div align="center">
 
 | 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
 |:---:|:---:|:---:|:---:|
 | **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 - Present | 🔥 Final Year |
-
 </div>
 ## 🏆 My GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
