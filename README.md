@@ -58,24 +58,7 @@
   <em>✨ Let’s connect and create something amazing together! ✨</em>
 </p>
 
----
-### 🧾 About Me 
-```yaml
-name: Md Tanvir Islam
-role: Software Developer | Machine Learning Engineer
-location: Dhaka, Bangladesh
-education: B.Sc. in Computer Science & Engineering
-current_focus:
-  - Machine Learning & AI
-  - Web & Backend Development
-  - Competitive Programming
-  - Open Source Contributions
-interests:
-  - AI/ML
-  - Web Development
-  - Competitive Programming
-motto: "Always learning, always building."
-```
+
 
 ### 🛠️ Technology Arsenal (expanded)
 <details>
