@@ -69,7 +69,7 @@
   - Backend & DB: Firebase, MySQL, SQLite
   - Languages: Python, C++, Java, JavaScript/TypeScript
   - Tools: Git, Docker, VS Code, CI/CD basics
-  - ML: TensorFlow, PyTorch 
+  - ML: Scikit-learn,TensorFlow, PyTorch, Transformers  
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
