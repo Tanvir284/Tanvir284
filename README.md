@@ -1,6 +1,6 @@
 <!-- Top animated typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+new+things" />
 </p>
 
 <!-- Profile Banner -->
