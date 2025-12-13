@@ -1,5 +1,6 @@
 <!-- Top animated typing banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+new+things;Always+curious+to;Solve+new+problems+for;A+better+world;" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+Learning,+Always+Building" />
 </p>
 
 <!-- Profile Banner -->
@@ -15,16 +16,16 @@
 
 <!-- Social & Contact -->
 <p align="center">
-  <a href="mailto:ruhittanvir14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>[...]
-  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoC[...]
-
+  <a href="mailto:ruhittanvir14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-120699206" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Tanvir_Islam84/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
 
 <!-- About / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banne[...]" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner" />
 </p>
 
 <p align="center">
@@ -57,7 +58,24 @@
   <em>✨ Let’s connect and create something amazing together! ✨</em>
 </p>
 
-
+---
+### 🧾 About Me 
+```yaml
+name: Md Tanvir Islam
+role: Software Developer | Machine Learning Engineer
+location: Dhaka, Bangladesh
+education: B.Sc. in Computer Science & Engineering
+current_focus:
+  - Machine Learning & AI
+  - Web & Backend Development
+  - Competitive Programming
+  - Open Source Contributions
+interests:
+  - AI/ML
+  - Web Development
+  - Competitive Programming
+motto: "Always learning, always building."
+```
 
 ### 🛠️ Technology Arsenal (expanded)
 <details>
@@ -68,20 +86,28 @@
   - Backend & DB: Firebase, MySQL, SQLite
   - Languages: Python, C++, Java, JavaScript/TypeScript
   - Tools: Git, Docker, VS Code, CI/CD basics
-  - ML: Scikit-learn,TensorFlow, PyTorch, Transformers  
-  
+  - ML: TensorFlow, PyTorch 
+
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
   </p>
 </details>
+
+
+
+
+
+
 ### 🎓 Education & Certifications 
 <div align="center">
 
 | 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
 |:---:|:---:|:---:|:---:|
 | **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 - Present | 🔥 Final Year |
+
 </div>
 ## 🏆 My GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
@@ -132,7 +158,7 @@
 </details>
 
 ---
-  
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -149,7 +175,7 @@
 </div>
 
 ---
-  
+
 ## 📅 Contribution Calendar
 
 <p align="center">
@@ -157,17 +183,16 @@
 </p>
 
 ---
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 ### 💖 Thank You for Visiting!
@@ -175,6 +200,6 @@
 **⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
 
 ---
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20,24,30&section=footer" />
 </div>
