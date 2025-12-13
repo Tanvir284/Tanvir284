@@ -58,24 +58,7 @@
   <em>✨ Let’s connect and create something amazing together! ✨</em>
 </p>
 
----
-### 🧾 About Me 
-```yaml
-name: Md Tanvir Islam
-role: Software Developer | Machine Learning Engineer
-location: Dhaka, Bangladesh
-education: B.Sc. in Computer Science & Engineering
-current_focus:
-  - Machine Learning & AI
-  - Web & Backend Development
-  - Competitive Programming
-  - Open Source Contributions
-interests:
-  - AI/ML
-  - Web Development
-  - Competitive Programming
-motto: "Always learning, always building."
-```
+
 
 ### 🛠️ Technology Arsenal (expanded)
 <details>
@@ -106,13 +89,7 @@ motto: "Always learning, always building."
 | **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 - Present | 🔥 Final Year |
 
 </div>
-## 🏆 My GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir284&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
 
 ## 🎯 Competitive Programming Stats
 
