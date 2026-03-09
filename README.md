@@ -17,7 +17,7 @@
 <!-- Social & Contact -->
 <p align="center">
   <a href="mailto:ruhittanvir14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[https://www.linkedin.com/in/md-tanvir-islam-120699206](https://www.linkedin.com/in/md-tanvir-islam-3186b3282/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-3186b3282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Tanvir_Islam84/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
