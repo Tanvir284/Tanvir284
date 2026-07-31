@@ -132,9 +132,9 @@ print(TanvirIslam().motto())
 
 <div align="center">
 
-| 🎓 Institution | 📚 Degree | 📅 Period | 🎯 Status |
+| 🎓 Institution | 📚 Degree | 📅 Period | CGPA |
 |:---|:---|:---:|:---:|
-| **Bangladesh University of Business & Technology (BUBT)** | B.Sc. in Computer Science & Engineering | 2022 – 2025 |
+| **Bangladesh University of Business & Technology (BUBT)** | B.Sc. in Computer Science & Engineering | 2022 – 2025 | 3.36 |
 
 </div>
 
