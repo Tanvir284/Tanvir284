@@ -6,8 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=00C9FF&center=true&vCenter=true&width=750&lines=🧠+Building+Intelligent+Systems;%F0%9F%94%8D+Deep+Learning+%7C+Computer+Vision+%7C+NLP;%F0%9F%8C%90+Django+%7C+React+%7C+Flutter+%7C+FastAPI;%F0%9F%94%AC+Explainable+AI+%7C+GradCAM+%7C+SHAP;%F0%9F%9A%80+Always+Shipping%2C+Always+Learning" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=00C9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Django+%7C+React+%7C+Flutter+%7C+FastAPI;Explainable+AI+%7C+GradCAM+%7C+SHAP;Always+Shipping%2C+Always+Learning" />
 </div>
 
 <br/>
