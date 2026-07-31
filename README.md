@@ -134,7 +134,7 @@ print(TanvirIslam().motto())
 
 | 🎓 Institution | 📚 Degree | 📅 Period | 🎯 Status |
 |:---|:---|:---:|:---:|
-| **Bangladesh University of Business & Technology (BUBT)** | B.Sc. in Computer Science & Engineering | 2022 – Present | 🔥 Final Year |
+| **Bangladesh University of Business & Technology (BUBT)** | B.Sc. in Computer Science & Engineering | 2022 – 2025 |
 
 </div>
 
