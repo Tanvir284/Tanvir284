@@ -1,182 +1,212 @@
-<!-- Top animated typing banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Tanvir%20Islam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=800&color=005b96&vCenter=true&width=600&lines=Hi,+I'm+Md+Tanvir+Islam!;Future+AI+%7C+ML+Engineer;Always+Learning,+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Full-Stack+%7C+Django+%7C+Flutter+%7C+React;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Tanvir284/Tanvir284/blob/main/assets/banner.gif" alt="Banner" width="80%" />
-</p>
-
-<!-- Visitor Counter & Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge" alt="visitors"/>
-  <img src="https://img.shields.io/github/followers/Tanvir284?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-</p>
-
-<!-- Social & Contact -->
-<p align="center">
-  <a href="mailto:ruhittanvir14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ruhittanvir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/md-tanvir-islam-3186b3282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MD%20Tanvir%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Tanvir_Islam84/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Tanvir_Islam84-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://komarev.com/ghpvc/?username=Tanvir284">
+    <img src="https://komarev.com/ghpvc/?username=Tanvir284&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Tanvir284?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
 </p>
 
 ---
 
-<!-- About / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=160&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="About Me banner" />
-</p>
+## 🧠 About Me
+
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name        = "Md Tanvir Islam"
+        self.role        = ["AI/ML Engineer", "Full-Stack Developer"]
+        self.location    = "Dhaka, Bangladesh 🇧🇩"
+        self.education   = "B.Sc. CSE — BUBT (Final Year)"
+        self.focus       = ["Deep Learning", "Computer Vision", "NLP", "XAI"]
+        self.stack       = ["Python", "PyTorch", "TensorFlow", "Django", "Flutter"]
+        self.interests   = ["Research", "Open Source", "MEXT Scholarship"]
+        self.contact     = "ruhittanvir14@gmail.com"
+
+    def current_work(self):
+        return [
+            "🔬 Training & deploying DL models (GradCAM, XAI)",
+            "🌐 Building full-stack apps with Django & React",
+            "📱 Developing cross-platform apps with Flutter",
+            "🧩 Automating data pipelines & web scraping",
+        ]
+
+    def life_philosophy(self):
+        return "Build. Break. Learn. Repeat. 🔁"
+
+me = MLEngineer()
+print(me.life_philosophy())
+# >> Build. Break. Learn. Repeat. 🔁
+```
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-  <br>
-  <b><span style="font-size:1.4em;">Md Tanvir Islam</span></b>
-  <br>
-  <span>Software Developer&nbsp;|&nbsp;Machine Learning Engineer</span>
-  <br>
-  <span>Dhaka, Bangladesh</span>
-</p>
-
-<details>
-  <summary><b>✨ Highlights & Goals</b></summary>
-  <div align="center" style="background: linear-gradient(90deg, #1ad0b6 0%, #ff9f43 100%); border-radius: 15px; padding: 25px 30px; margin: 20px 0;">
-    <ul align="left" style="list-style:none; font-size: 1.1em;">
-      <li>🚀 <b>Driven by curiosity</b> & a passion for tackling complex challenges</li>
-      <li>🌱 <b>Always learning</b> — from AI & web dev to open-source</li>
-      <li>🌍 <b>Building connections</b> with global tech communities</li>
-      <li>💡 <b>Open to collaboration</b> on impactful, data-driven solutions</li>
-    </ul>
-    <p align="center">
-      <img src="https://img.shields.io/badge/-Build%20impactful%20solutions-1ad0b6?style=for-the-badge" height="28"/>
-      <img src="https://img.shields.io/badge/-Contribute%20to%20Open%20Source-ff9f43?style=for-the-badge" height="28"/>
-      <img src="https://img.shields.io/badge/-Master%20AI%20%26%20Web%20Frameworks-1ad0b6?style=for-the-badge" height="28"/>
-    </p>
-  </div>
-</details>
-
-<p align="center">
-  <em>✨ Let’s connect and create something amazing together! ✨</em>
-</p>
-
-
-
-### 🛠️ Technology Arsenal (expanded)
-<details>
-  <summary><b>💼 Core Technologies (expand)</b></summary>
-
-  - Mobile : Android Java, Flutter 
-  - Web: HTML, CSS, JavaScript, React, Node.js, Express
-  - Backend & DB: Firebase, MySQL, SQLite
-  - Languages: Python, C++, Java, JavaScript/TypeScript
-  - Tools: Git, Docker, VS Code, CI/CD basics
-  - ML: TensorFlow, PyTorch 
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=light" alt="icons" />
-  </p>
-</details>
-
-
-
-
-
-
-### 🎓 Education & Certifications 
-<div align="center">
-
-| 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
-|:---:|:---:|:---:|:---:|
-| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 - Present | 🔥 Final Year |
-
-</div>
-
-
-## 🎯 Competitive Programming Stats
-
-### 🟧 LeetCode Profile & Activity
-<p align="center">
+  <a href="mailto:ruhittanvir14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ruhittanvir14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-tanvir-islam-3186b3282/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Tanvir%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://leetcode.com/u/Tanvir_Islam84/">
-    <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-Tanvir__Islam84-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
-
-### 🟦 Codeforces Profile & Activity
-<p align="center">
   <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" alt="Codeforces Stats" />
+    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## ⚡ Core Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png"/><br/>
+      <b>AI / ML / DL</b><br/>
+      <sub>PyTorch · TensorFlow · Scikit-learn · GradCAM · XAI</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/64/000000/code.png"/><br/>
+      <b>Backend Dev</b><br/>
+      <sub>Django · Flask · REST APIs · PostgreSQL · Firebase</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/64/000000/react-native.png"/><br/>
+      <b>Frontend & Mobile</b><br/>
+      <sub>React · Flutter · Tailwind CSS · TypeScript</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/64/000000/devops.png"/><br/>
+      <b>DevOps & Cloud</b><br/>
+      <sub>Docker · Git · Linux · AWS · CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" height="45" title="AI/ML"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs&theme=dark" height="45" title="Backend"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,flutter,ts,tailwind&theme=dark" height="45" title="Frontend/Mobile"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws&theme=dark" height="45" title="DevOps"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb&theme=dark" height="45" title="Databases"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,js&theme=dark" height="45" title="Languages"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🧠 Deep Learning — Medical Imaging</h3>
+      <p>CNN-based classification model with <b>GradCAM explainability</b> for visual diagnosis. Trained on Google Colab with augmented datasets and deployed via Flask API.</p>
+      <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch"/>
+      <img src="https://img.shields.io/badge/XAI-GradCAM-blueviolet?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>🌐 Full-Stack Tender Management System</h3>
+      <p>Automated data pipeline with <b>Python web scraper</b> feeding a <b>Django REST backend</b>. Includes real-time notifications and admin dashboard.</p>
+      <img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django"/>
+      <img src="https://img.shields.io/badge/Python-Scraper-3776AB?style=flat-square&logo=python"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📱 Flutter Cross-Platform App</h3>
+      <p>Feature-rich mobile app with <b>Firebase real-time DB</b>, authentication, and responsive UI. Built for Android & iOS from a single Dart codebase.</p>
+      <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter"/>
+      <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td width="50%">
+      <h3>📊 Data Science & NLP Pipeline</h3>
+      <p>End-to-end NLP pipeline for <b>text classification</b> and sentiment analysis using Transformer-based models fine-tuned on custom datasets.</p>
+      <img src="https://img.shields.io/badge/HuggingFace-NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Institution | 📚 Degree | 📅 Period | 🎯 Status |
+|:---|:---|:---:|:---:|
+| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2022 – Present | 🔥 Final Year |
+
+</div>
+
+> 🌏 **Exploring graduate opportunities** — MEXT Scholarship (Japan) candidate, targeting AI/ML research programs.
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/Tanvir_Islam84/">
+    <img src="https://leetcard.jacoblin.cool/Tanvir_Islam84?theme=dark&font=Fira%20Code&ext=activity" height="200"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/ruhittanvir14">
-    <img src="https://img.shields.io/badge/Codeforces-ruhittanvir14-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ruhittanvir14&theme=dark" height="200"/>
   </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<details>
-  <summary><b>🖥️ Click to expand Tech Stack</b></summary>
-  <div align="center">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,html,css" height="40" alt="Languages"/>
-    <br>
-    <!-- Frameworks and Platforms -->
-    <img src="https://skillicons.dev/icons?i=django,flask,react,express,flutter,dotnet,nodejs,tensorflow,pytorch" height="40" alt="Frameworks"/>
-    <br>
-    <!-- Styling -->
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
-    <br>
-    <!-- DevOps & Cloud -->
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kubernetes" height="40" alt="DevOps Cloud"/>
-  </div>
-</details>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir284&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-## 📅 Contribution Calendar
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir284&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir284&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="175"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir284&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🧭 2026 Roadmap
+
+```
+✅ Build production-grade DL models with explainability (GradCAM, SHAP)
+✅ Deploy full-stack ML web apps (Django + React)
+🔄 Contribute to open-source AI/ML libraries
+🔄 Achieve 500+ LeetCode problems solved
+⏳ Apply for MEXT / fully-funded MS programs in AI
+⏳ Publish research in Computer Vision / NLP
+⏳ Land ML Engineering role at a top-tier tech company
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir284&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <sub>⭐ If my work resonates, a star means the world — it fuels the next build. ⭐</sub>
 </p>
-
----
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-### 💖 Thank You for Visiting!
-
-**⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20,24,30&section=footer" />
-</div>
