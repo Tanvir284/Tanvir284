@@ -65,25 +65,7 @@ status:    ✅ Open to opportunities
 
 </div>
 
-## 💼 &nbsp;Experience
 
-<table>
-<tr>
-<td width="8">&nbsp;</td>
-<td>
-
-**IT Officer** — *Highland Agrotourism Limited*, Dhaka &nbsp;&nbsp;`Current`
-
-Owning the company's technical and digital growth stack end-to-end:
-
-- Plan and run **performance marketing campaigns** across Meta (Facebook/Instagram), YouTube and Google Ads — audience targeting, creative testing, budget allocation
-- Track campaign performance through analytics dashboards and **iterate on data**, not guesswork
-- Manage the company's digital infrastructure, content pipeline and technical operations
-- Bridge the gap between **business goals and technical execution**
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0E7490,100:22D3EE&height=3&section=header" />
